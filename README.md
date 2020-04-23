@@ -4,11 +4,11 @@
 
 To recreate the problem reported here:
 
-https://github.com/boostorg/beast/issues/1798
+https://github.com/cpp-pm/issues
 
 ## Required toolchain
 
-This program requires a c++11 or better toolchain.
+Any toolchain will work with this project, or none.
 
 Some very good toolchains files available here:
 
@@ -23,3 +23,9 @@ Where:
 * `POLLY_DIR` is the cloned polly repo
 * `SRC_DIR` is the directory containing this file
 * `BUILD_DIR` is the intended build directory (in-source builds are evil)
+
+
+# Reference:
+
+https://dl.bintray.com/boostorg/release/1.72.0/source/boost_1_72_0.tar.gz
+
